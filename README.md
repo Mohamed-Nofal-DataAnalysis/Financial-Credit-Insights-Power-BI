@@ -65,6 +65,13 @@ The project utilizes advanced **DAX (Data Analysis Expressions)** to move beyond
 
 ---
 
+## Dashboard Screenshots (Click to enlarge) :
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Financial-Credit-Insights-Power-BI/blob/main/Home%20Dashboard.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Financial-Credit-Insights-Power-BI/blob/main/Visa%20Dashboard.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Financial-Credit-Insights-Power-BI/blob/main/Year%20Dashboard.png">
+
+---
+
 ## ❓ Business Questions Answered Instantly
 
 | Requirement | Insight & Achievement |
