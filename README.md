@@ -25,6 +25,15 @@ The data model follows a **Star Schema** design to ensure speed and scalability 
 * **Relationships:** Established **One-to-Many (1:*)** relationships to support demographic cross-analysis.
 
 ---
+
+## 🔢 Technical Achievement: Key Measures
+
+The project utilizes advanced **DAX (Data Analysis Expressions)** to move beyond simple aggregations into meaningful business logic:
+
+* **Financial Aggregations:** Calculation of `AVERAGE` and `MAX` Credit Limits to identify credit risk and customer value.
+* **Operational Intelligence:** Calculated the **Average Customer Age (9.74 years)** and **Average PIN Changes** to monitor account activity.
+* **Proportional Analysis:** Logic to determine the percentage of chipped vs. non-chipped cards (currently at **89.49%**).
+
 ---
 
 ## 📊 Visuals Used
@@ -45,15 +54,6 @@ The data model follows a **Star Schema** design to ensure speed and scalability 
 
 ---
 
-## 🔢 Technical Achievement: Key Measures
-
-The project utilizes advanced **DAX (Data Analysis Expressions)** to move beyond simple aggregations into meaningful business logic:
-
-* **Financial Aggregations:** Calculation of `AVERAGE` and `MAX` Credit Limits to identify credit risk and customer value.
-* **Operational Intelligence:** Calculated the **Average Customer Age (9.74 years)** and **Average PIN Changes** to monitor account activity.
-* **Proportional Analysis:** Logic to determine the percentage of chipped vs. non-chipped cards (currently at **89.49%**).
-
----
 
 ## 📊 Key Dashboard Sections
 
