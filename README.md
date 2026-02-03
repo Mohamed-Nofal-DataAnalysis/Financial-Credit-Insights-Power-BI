@@ -25,6 +25,25 @@ The data model follows a **Star Schema** design to ensure speed and scalability 
 * **Relationships:** Established **One-to-Many (1:*)** relationships to support demographic cross-analysis.
 
 ---
+---
+
+## 📊 Visuals Used
+
+* **KPI Cards:** For displaying critical financial scale metrics such as **Total Credit Limit ($88.2M)**, **Average Credit Limit**, and **Maximum Credit Limit**.
+* **Metric & Operational Tiles:** Dedicated cards for tracking volume and user activity, including **Total Cards Issued (6K)**, **Total Clients (2K)**, and **Average Customer Age (9.74 years)**.
+* **Dual-Axis Line Chart:** Essential for historical trend analysis, specifically showing the correlation between **Total Clients** and **Total Credit Limit** over time (1990 - 2020).
+* **Donut Chart:** Used for security status breakdown, visualizing the adoption rate of chip technology (**has_chip**).
+* **Clustered Column Charts:** Utilized for categorical financial breakdowns, such as **Average Credit Limit** and **Total Clients** by both **Card Brand** and **Card Type**.
+
+---
+
+## 🖱️ Interactive Slicers (Synced Across Dashboard)
+
+* **Year Slicer:** A vertical list for multi-year selection (e.g., 1991 - 1998) to analyze specific economic periods.
+* **Card Brand Slicer:** Single/Multi-select options for deep-diving into performance by brand (**Amex, Discover, Mastercard, Visa**).
+* **Card Type Slicer:** Filtering capabilities for different account categories, including **Credit, Debit, and Debit (Prepaid)**.
+
+---
 
 ## 🔢 Technical Achievement: Key Measures
 
